@@ -27,7 +27,6 @@ import (
 	_ "github.com/mattn/go-sqlite3"
 	"gopkg.in/yaml.v2"
 
-	"io/ioutil"
 	"os/exec"
 )
 
